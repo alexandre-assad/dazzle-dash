@@ -10,7 +10,7 @@ We're in the a hot beach of Oakland in the 2000's, the Major League Baseball (ML
 They wanted to try to optimize spending and winning, through only statitics, and applying it to their recruiting strategies.
 The concept worked so well that it got it's own book "Moneyball: The Art of Winning an Unfair Game" which was later adapted into a film starring Brad Pitt as the team's general manager (GM)
 
-![The Money Ball Movie](assets/moneyball.jpg)
+![The Money Ball Movie](../assets/moneyball.jpg)
 
 ### The Story
 
@@ -32,7 +32,7 @@ The Money Ball was the new hype, it was against all the previous models taking a
 
 ## The 3 point shot
 
-![Evolution of the 3 point value](assets/pointscomparision.JPG)
+![Evolution of the 3 point value](../assets/pointscomparision.JPG)
 
 We're in the 1960's in the United State, in the American Basketball Association (ABA). Basketball was a sports of big men, a big men is a 200cm playing as a center.
 The sport revolved around getting the ball to a rim that is 305cm high and since the place where you have the most percentage of accuracy is the close to the hoop.
