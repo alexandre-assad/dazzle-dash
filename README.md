@@ -1,1 +1,4 @@
-# dazzle-dash
+# Requirements
+
+Run the following command
+``` pip install -r requirements.txt ```
