@@ -1,3 +1,2 @@
-from dazzle_dash.main import main
-
+from dazzle_dash.main import *
 main()

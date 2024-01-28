@@ -1,10 +1,8 @@
 from dash import Dash
 
-from .dash.app import main_app
+from .dash.app import app
 
 def main():
-    main_app()
+    app()
 
 
-if __name__ == '__main__':
-    main()
