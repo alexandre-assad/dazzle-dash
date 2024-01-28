@@ -19,15 +19,15 @@ def app():
     app.layout = html.Div([
         html.H1(children='Food We Eat', style={'textAlign':'center'}),
         
-        dcc.Dropdown(df.Item.unique(), 'France', id='country-selection'),
-        dcc.Graph(id='five_producers'),
-        dcc.Dropdown(df.Item.unique(), 'Sugar cane', id='item-selection'),
+        dcc.Dropdown(df.Item.unique(), 'Honey', id='item-selection'),
         dcc.Graph(
-            id='scat_geo')
+            id='all_time_producers'
+        ),
+        dcc.Graph(
+            id='five_producers'
+        )
     ])
 
     all_calbacks(df)
-    
+    app.run(debug=True)
 
-    if __name__ == "__app__":
-        app.run(debug=True)
