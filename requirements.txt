@@ -1,3 +1,0 @@
-dash==2.14.1
-pandas==2.0.3
-importnb=2023.11.1
